@@ -1,0 +1,588 @@
+{
+    "apikey": "api2demo",
+    "success": true,
+    "requestNumber": 999,
+    "itemsCount": 0,
+    "totalResults": 15961,
+    "items": [],
+    "facets": [
+        {
+            "name": "YEAR",
+            "fields": [
+                {
+                    "label": "1912",
+                    "count": 509
+                },
+                {
+                    "label": "1928",
+                    "count": 330
+                },
+                {
+                    "label": "1939",
+                    "count": 286
+                },
+                {
+                    "label": "1913",
+                    "count": 272
+                },
+                {
+                    "label": "1908",
+                    "count": 270
+                },
+                {
+                    "label": "1877",
+                    "count": 234
+                },
+                {
+                    "label": "1930",
+                    "count": 224
+                },
+                {
+                    "label": "1907",
+                    "count": 215
+                },
+                {
+                    "label": "1934",
+                    "count": 196
+                },
+                {
+                    "label": "1932",
+                    "count": 174
+                },
+                {
+                    "label": "1910",
+                    "count": 163
+                },
+                {
+                    "label": "1933",
+                    "count": 162
+                },
+                {
+                    "label": "1935",
+                    "count": 154
+                },
+                {
+                    "label": "1937",
+                    "count": 149
+                },
+                {
+                    "label": "1903",
+                    "count": 145
+                },
+                {
+                    "label": "1900",
+                    "count": 143
+                },
+                {
+                    "label": "1938",
+                    "count": 143
+                },
+                {
+                    "label": "1929",
+                    "count": 132
+                },
+                {
+                    "label": "1905",
+                    "count": 115
+                },
+                {
+                    "label": "1918",
+                    "count": 114
+                },
+                {
+                    "label": "1925",
+                    "count": 114
+                },
+                {
+                    "label": "1936",
+                    "count": 107
+                },
+                {
+                    "label": "1931",
+                    "count": 105
+                },
+                {
+                    "label": "1920",
+                    "count": 103
+                },
+                {
+                    "label": "1902",
+                    "count": 95
+                },
+                {
+                    "label": "1927",
+                    "count": 91
+                },
+                {
+                    "label": "1899",
+                    "count": 89
+                },
+                {
+                    "label": "1909",
+                    "count": 88
+                },
+                {
+                    "label": "1906",
+                    "count": 87
+                },
+                {
+                    "label": "1917",
+                    "count": 87
+                },
+                {
+                    "label": "1898",
+                    "count": 84
+                },
+                {
+                    "label": "1922",
+                    "count": 72
+                },
+                {
+                    "label": "1921",
+                    "count": 67
+                },
+                {
+                    "label": "1923",
+                    "count": 66
+                },
+                {
+                    "label": "1911",
+                    "count": 65
+                },
+                {
+                    "label": "1915",
+                    "count": 65
+                },
+                {
+                    "label": "1926",
+                    "count": 64
+                },
+                {
+                    "label": "1901",
+                    "count": 61
+                },
+                {
+                    "label": "1916",
+                    "count": 56
+                },
+                {
+                    "label": "1924",
+                    "count": 56
+                },
+                {
+                    "label": "1914",
+                    "count": 55
+                },
+                {
+                    "label": "1904",
+                    "count": 53
+                },
+                {
+                    "label": "1876",
+                    "count": 52
+                },
+                {
+                    "label": "1919",
+                    "count": 44
+                },
+                {
+                    "label": "1896",
+                    "count": 42
+                },
+                {
+                    "label": "1878",
+                    "count": 40
+                },
+                {
+                    "label": "1897",
+                    "count": 40
+                },
+                {
+                    "label": "1880",
+                    "count": 39
+                },
+                {
+                    "label": "1893",
+                    "count": 34
+                },
+                {
+                    "label": "1879",
+                    "count": 32
+                }
+            ]
+        },
+        {
+            "name": "COLOURPALETTE",
+            "fields": [
+                {
+                    "label": "#808080",
+                    "count": 3838
+                },
+                {
+                    "label": "#A9A9A9",
+                    "count": 3538
+                },
+                {
+                    "label": "#BDB76B",
+                    "count": 3511
+                },
+                {
+                    "label": "#C0C0C0",
+                    "count": 3442
+                },
+                {
+                    "label": "#556B2F",
+                    "count": 3406
+                },
+                {
+                    "label": "#BC8F8F",
+                    "count": 3260
+                },
+                {
+                    "label": "#D3D3D3",
+                    "count": 3196
+                },
+                {
+                    "label": "#2F4F4F",
+                    "count": 3171
+                },
+                {
+                    "label": "#000000",
+                    "count": 3011
+                },
+                {
+                    "label": "#D2B48C",
+                    "count": 2994
+                },
+                {
+                    "label": "#DCDCDC",
+                    "count": 2953
+                },
+                {
+                    "label": "#696969",
+                    "count": 2882
+                },
+                {
+                    "label": "#F5DEB3",
+                    "count": 2516
+                },
+                {
+                    "label": "#FAEBD7",
+                    "count": 2428
+                },
+                {
+                    "label": "#FAF0E6",
+                    "count": 2324
+                },
+                {
+                    "label": "#FFE4C4",
+                    "count": 2208
+                },
+                {
+                    "label": "#8FBC8F",
+                    "count": 2030
+                },
+                {
+                    "label": "#F5F5DC",
+                    "count": 1908
+                },
+                {
+                    "label": "#CD853F",
+                    "count": 1823
+                },
+                {
+                    "label": "#FDF5E6",
+                    "count": 1634
+                },
+                {
+                    "label": "#800000",
+                    "count": 1593
+                },
+                {
+                    "label": "#FFFAFA",
+                    "count": 1590
+                },
+                {
+                    "label": "#FFFAF0",
+                    "count": 1539
+                },
+                {
+                    "label": "#8B4513",
+                    "count": 1535
+                },
+                {
+                    "label": "#A0522D",
+                    "count": 1514
+                },
+                {
+                    "label": "#FFFFFF",
+                    "count": 1514
+                },
+                {
+                    "label": "#D8BFD8",
+                    "count": 1510
+                },
+                {
+                    "label": "#FFF5EE",
+                    "count": 1479
+                },
+                {
+                    "label": "#F5F5F5",
+                    "count": 1445
+                },
+                {
+                    "label": "#FFEBCD",
+                    "count": 1371
+                },
+                {
+                    "label": "#FFFFF0",
+                    "count": 1360
+                },
+                {
+                    "label": "#FFE4E1",
+                    "count": 1330
+                },
+                {
+                    "label": "#FFF8DC",
+                    "count": 1179
+                },
+                {
+                    "label": "#DEB887",
+                    "count": 1145
+                },
+                {
+                    "label": "#708090",
+                    "count": 1122
+                },
+                {
+                    "label": "#EEE8AA",
+                    "count": 1108
+                },
+                {
+                    "label": "#E6E6FA",
+                    "count": 1082
+                },
+                {
+                    "label": "#FFEFD5",
+                    "count": 1027
+                },
+                {
+                    "label": "#FFC0CB",
+                    "count": 993
+                },
+                {
+                    "label": "#FFFFE0",
+                    "count": 980
+                },
+                {
+                    "label": "#B0C4DE",
+                    "count": 887
+                },
+                {
+                    "label": "#FFF0F5",
+                    "count": 856
+                },
+                {
+                    "label": "#FAFAD2",
+                    "count": 784
+                },
+                {
+                    "label": "#CD5C5C",
+                    "count": 783
+                },
+                {
+                    "label": "#FFE4B5",
+                    "count": 754
+                },
+                {
+                    "label": "#F0FFF0",
+                    "count": 719
+                },
+                {
+                    "label": "#E9967A",
+                    "count": 689
+                },
+                {
+                    "label": "#F5FFFA",
+                    "count": 672
+                },
+                {
+                    "label": "#FFDAB9",
+                    "count": 653
+                },
+                {
+                    "label": "#FFB6C1",
+                    "count": 644
+                }
+            ]
+        },
+        {
+            "name": "LANDINGPAGE",
+            "fields": [
+                {
+                    "label": "true",
+                    "count": 15936
+                },
+                {
+                    "label": "false",
+                    "count": 25
+                }
+            ]
+        },
+        {
+            "name": "MEDIA",
+            "fields": [
+                {
+                    "label": "true",
+                    "count": 15932
+                },
+                {
+                    "label": "false",
+                    "count": 29
+                }
+            ]
+        },
+        {
+            "name": "THUMBNAIL",
+            "fields": [
+                {
+                    "label": "true",
+                    "count": 15932
+                },
+                {
+                    "label": "false",
+                    "count": 29
+                }
+            ]
+        },
+        {
+            "name": "IMAGE_SIZE",
+            "fields": [
+                {
+                    "label": "small",
+                    "count": 15912
+                },
+                {
+                    "label": "medium",
+                    "count": 14
+                }
+            ]
+        },
+        {
+            "name": "IMAGE_ASPECTRATIO",
+            "fields": [
+                {
+                    "label": "landscape",
+                    "count": 9213
+                },
+                {
+                    "label": "portrait",
+                    "count": 6719
+                }
+            ]
+        },
+        {
+            "name": "IMAGE_COLOUR",
+            "fields": [
+                {
+                    "label": "true",
+                    "count": 15677
+                },
+                {
+                    "label": "false",
+                    "count": 255
+                }
+            ]
+        },
+        {
+            "name": "LANGUAGE",
+            "fields": [
+                {
+                    "label": "bg",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "RIGHTS",
+            "fields": [
+                {
+                    "label": "http://creativecommons.org/publicdomain/mark/1.0/",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "TEXT_FULLTEXT",
+            "fields": [
+                {
+                    "label": "false",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "DATA_PROVIDER",
+            "fields": [
+                {
+                    "label": "National Academic Library and Information System Foundation",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "UGC",
+            "fields": [
+                {
+                    "label": "false",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "COUNTRY",
+            "fields": [
+                {
+                    "label": "Bulgaria",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "PROVIDER",
+            "fields": [
+                {
+                    "label": "PHOTOCONSORTIUM",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "TYPE",
+            "fields": [
+                {
+                    "label": "IMAGE",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "REUSABILITY",
+            "fields": [
+                {
+                    "label": "open",
+                    "count": 15961
+                }
+            ]
+        },
+        {
+            "name": "MIME_TYPE",
+            "fields": [
+                {
+                    "label": "image/jpeg",
+                    "count": 15932
+                }
+            ]
+        }
+    ]
+}

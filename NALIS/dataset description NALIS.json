@@ -1,0 +1,19 @@
+{
+    "apikey": "api2demo",
+    "success": true,
+    "requestNumber": 999,
+    "itemsCount": 0,
+    "totalResults": 15961,
+    "items": [],
+    "facets": [
+        {
+            "name": "edm_datasetName",
+            "fields": [
+                {
+                    "label": "2024905_Ag_EU_EuropeanaPhotography_Nalis_1015",
+                    "count": 15961
+                }
+            ]
+        }
+    ]
+}

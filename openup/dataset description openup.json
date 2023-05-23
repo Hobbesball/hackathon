@@ -1,0 +1,312 @@
+{
+    "apikey": "api2demo",
+    "success": true,
+    "requestNumber": 999,
+    "itemsCount": 0,
+    "totalResults": 11108169,
+    "items": [],
+    "facets": [
+        {
+            "name": "edm_datasetName",
+            "fields": [
+                {
+                    "label": "11614_Royal_Botanic_Gardens_Kew",
+                    "count": 595140
+                },
+                {
+                    "label": "11650_Ag_EU_OpenUp!_BATCH7:NBCNL_DWCA",
+                    "count": 499800
+                },
+                {
+                    "label": "11654_Ag_EU_OpenUp!_BATCH3:NBCNL_DWCA",
+                    "count": 499792
+                },
+                {
+                    "label": "11652_Ag_EU_OpenUp!_BATCH5:NBCNL_DWCA",
+                    "count": 499400
+                },
+                {
+                    "label": "11651_Ag_EU_OpenUp!_BATCH6:NBCNL_DWCA",
+                    "count": 499300
+                },
+                {
+                    "label": "11648_Ag_EU_OpenUp!_BATCH9:NBCNL_DWCA",
+                    "count": 496229
+                },
+                {
+                    "label": "11616_The_Royal_Botanic_Garden_Edinburgh",
+                    "count": 484142
+                },
+                {
+                    "label": "11649_Ag_EU_OpenUp!_BATCH8:NBCNL_DWCA",
+                    "count": 389598
+                },
+                {
+                    "label": "11647_Ag_EU_OpenUp!_BATCH10:NBCNL_DWCA",
+                    "count": 335966
+                },
+                {
+                    "label": "11653_Ag_EU_OpenUp!_BATCH4:NBCNL_DWCA",
+                    "count": 320709
+                },
+                {
+                    "label": "11656_OpenUp_BATCH1_NBCNL_DWCA",
+                    "count": 249914
+                },
+                {
+                    "label": "11655_OpenUp_BATCH2_NBCNL_DWCA",
+                    "count": 248313
+                },
+                {
+                    "label": "08711_Biodiversity_Heritage_Library",
+                    "count": 247627
+                },
+                {
+                    "label": "840_OpenUp_NHM_London_Batch2",
+                    "count": 247087
+                },
+                {
+                    "label": "841_OpenUp_NHM_London_Batch3",
+                    "count": 247018
+                },
+                {
+                    "label": "883_OpenUp_NHM_London_Batch10",
+                    "count": 246798
+                },
+                {
+                    "label": "882_OpenUp_NHM_London_Batch9",
+                    "count": 246758
+                },
+                {
+                    "label": "870__OpenUp_NHM_London_Batch6",
+                    "count": 246326
+                },
+                {
+                    "label": "854__OpenUp_NHM_London_Batch5",
+                    "count": 246251
+                },
+                {
+                    "label": "872_OpenUp_NHM_London_Batch7",
+                    "count": 245980
+                },
+                {
+                    "label": "875_OpenUp_NHM_London_Batch8",
+                    "count": 245863
+                },
+                {
+                    "label": "853__OpenUp_NHM_London_Batch4",
+                    "count": 245461
+                },
+                {
+                    "label": "817_OpenUp_NHM_London_Batch1",
+                    "count": 245360
+                },
+                {
+                    "label": "176_OpenUp_NBGB_Part2",
+                    "count": 229054
+                },
+                {
+                    "label": "11608_OpenUp_NBGB_Part1",
+                    "count": 228355
+                },
+                {
+                    "label": "11629_Botanical_Museum_Berlin_Dahlem",
+                    "count": 162889
+                },
+                {
+                    "label": "11642_Ag_EU_OpenUp!_BATCH15:NBCNL_DWCA",
+                    "count": 158400
+                },
+                {
+                    "label": "517_OpenUp_MNHN_Pt1",
+                    "count": 126010
+                },
+                {
+                    "label": "11620_OpenUp_MNHN",
+                    "count": 125670
+                },
+                {
+                    "label": "519_OpenUp_MNHN_Pt3",
+                    "count": 125600
+                },
+                {
+                    "label": "518_OpenUp_MNHN_Pt2",
+                    "count": 124880
+                },
+                {
+                    "label": "11601_OpenUp_NHMV",
+                    "count": 115910
+                },
+                {
+                    "label": "11643_Ag_EU_OpenUp!_BATCH14:NBCNL_DWCA",
+                    "count": 111400
+                },
+                {
+                    "label": "11628_Ag_EU_OpenUp!_FOTO_AM",
+                    "count": 101323
+                },
+                {
+                    "label": "11603_Ag_EU_OpenUp!_LANDOOE",
+                    "count": 91679
+                },
+                {
+                    "label": "11646_Ag_EU_OpenUp!_BATCH11:NBCNL_DWCA",
+                    "count": 82000
+                },
+                {
+                    "label": "11644_Ag_EU_OpenUp!_BATCH13:NBCNL_DWCA",
+                    "count": 80000
+                },
+                {
+                    "label": "11602_Herbarium_WU",
+                    "count": 54058
+                },
+                {
+                    "label": "439_SLJ_Herbarium_GJO",
+                    "count": 50464
+                },
+                {
+                    "label": "11640_Ag_EU_OpenUp!_BATCH16:NBCNL_DWCA",
+                    "count": 49400
+                },
+                {
+                    "label": "11604_Ag_EU_OpenUp_UH",
+                    "count": 46800
+                },
+                {
+                    "label": "11622_OpenUp_MFN",
+                    "count": 44152
+                },
+                {
+                    "label": "11617_Ag_EU_OpenUp!_UTNHM",
+                    "count": 42071
+                },
+                {
+                    "label": "11624_Ag_OpenUp_GIT",
+                    "count": 29704
+                },
+                {
+                    "label": "11615_Ag_EU_OpenUp_UCPH",
+                    "count": 23146
+                },
+                {
+                    "label": "11632_Field_Museum_of_Natural_History",
+                    "count": 15902
+                },
+                {
+                    "label": "11633_OpenUp_HerbariumGZU",
+                    "count": 10038
+                },
+                {
+                    "label": "225_Meise_Botanic_Garden_LivingPlants",
+                    "count": 9040
+                },
+                {
+                    "label": "175_Museu_de_Ciencies_Naturals_de_Barcelona",
+                    "count": 8971
+                },
+                {
+                    "label": "11613_Ag_EU_OpenUp!_NM",
+                    "count": 8270
+                },
+                {
+                    "label": "11623_Ag_EU_OpenUp!_MRAC",
+                    "count": 8181
+                },
+                {
+                    "label": "11612_OpenUp_IBSAS",
+                    "count": 6437
+                },
+                {
+                    "label": "11618_Ag_OpenUp_ZFMK",
+                    "count": 5602
+                },
+                {
+                    "label": "11625_Ag_EU_OpenUp!_RBINS",
+                    "count": 4074
+                },
+                {
+                    "label": "198_Meise_Botanic_Garden",
+                    "count": 2945
+                },
+                {
+                    "label": "11639_Ag_EU_OpenUp!_ECBOT",
+                    "count": 1800
+                },
+                {
+                    "label": "11637_LeibnizInstitute",
+                    "count": 1601
+                },
+                {
+                    "label": "11641_Ag_EU_OpenUp!_BATCH17:NBCNL_DWCA",
+                    "count": 1400
+                },
+                {
+                    "label": "11631_OpenUp_MOOSATLAS",
+                    "count": 818
+                },
+                {
+                    "label": "11630_Ag_EU_OpenUp_SCHWEINFURTHBOTANICALDRAWINGS",
+                    "count": 620
+                },
+                {
+                    "label": "11634_Ag_EU_OpenUp!_AWI",
+                    "count": 568
+                },
+                {
+                    "label": "310_Meise_Botanic_Garden_VirtualExhibition_Part2",
+                    "count": 506
+                },
+                {
+                    "label": "11635_OpenUp_MuseumPlus",
+                    "count": 305
+                },
+                {
+                    "label": "11636_Ag_EU_OpenUp_BoBO",
+                    "count": 264
+                },
+                {
+                    "label": "179_OpenUp_NBGB_Part3",
+                    "count": 204
+                },
+                {
+                    "label": "11627_OpenUp_ALGATERRA",
+                    "count": 23
+                },
+                {
+                    "label": "311_Meise_Botanic_Garden_VirtualExhibition_Part3",
+                    "count": 17
+                },
+                {
+                    "label": "309_Meise_Botanic_Garden_VirtualExhibition_Part1",
+                    "count": 1
+                },
+                {
+                    "label": "264_Meise_Botanic_Garden_Batch4",
+                    "count": 229076
+                },
+                {
+                    "label": "266_Meise_Botanic_Garden_Batch6",
+                    "count": 228484
+                },
+
+                {
+                    "label": "263_Meise_Botanic_Garden_Batch3",
+                    "count": 228400
+                },
+                {
+                    "label": "265_Meise_Botanic_Garden_Batch5",
+                    "count": 228177
+                },
+                {
+                    "label": "165_LinBi_Real_Jardin_Botanico_Madrid",
+                    "count": 74638
+                },
+                {
+                    "label": "383_Rundfunk_Berlin_Brandenburg",
+                    "count": 10
+                }
+            ]
+        }
+    ]
+}
