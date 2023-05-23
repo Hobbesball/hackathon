@@ -1,6 +1,6 @@
 # InnoAir and Europeana hackathon datasets
 
-This repository provides direct downloads to datasets that can be used during the [InnoAir hackathon](https://innoair-sofia.eu/en/challenges/97-challenges/407-hackathon-%E2%80%9Cinnoair-europeana-the-challenge-of-sustainability-and-social-justice%E2%80%9D.html), organised by the Sofia Development Association and the Sofia Municipality. The hackathon runs from June 1st to June 8th 2023, and features around **7.500 EUR in prizes**. You can sign up for the hackathon [here](https://docs.google.com/forms/d/e/1FAIpQLScecHLEodmsXKpVRK1mYk0MNsLEaI8B3-N0Pn6rBXQvBo1pcQ/viewform). 
+This repository provides direct downloads to datasets from Europeana that can be used during the [InnoAir hackathon](https://innoair-sofia.eu/en/challenges/97-challenges/407-hackathon-%E2%80%9Cinnoair-europeana-the-challenge-of-sustainability-and-social-justice%E2%80%9D.html), organised by the Sofia Development Association and the Sofia Municipality. The hackathon runs from June 1st to June 8th 2023, and features around **7.500 EUR in prizes**. You can sign up for the hackathon [here](https://docs.google.com/forms/d/e/1FAIpQLScecHLEodmsXKpVRK1mYk0MNsLEaI8B3-N0Pn6rBXQvBo1pcQ/viewform). 
 
 **for any questions, mentoring or guidance on how to use these datasets or Europeana's APIs, please get in contact with Jolan at jolan[dot)wuyts(at]Europeana[dot)eu**
 
